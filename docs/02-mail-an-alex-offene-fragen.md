@@ -15,9 +15,8 @@ vielen Dank für deine Nachricht – und danke, dass du dir das Format so
 genau angesehen hast. Die Rückmeldung hilft mir sehr.
 
 Zu deiner Frage, ob der Content bei uns das hält, was er verspricht:
-Mein Sohn Nico hört aktuell ein recht ähnliches Format („Traumreise –
-Fantasiereisen & Meditation für Kinder"). Er schläft damit ein – und
-das auch zuverlässig. Ob er das dem Hörspiel oder einfach seiner eigenen
+Er schläft damit ein – und das auch zuverlässig.
+Ob er das dem Hörspiel oder einfach seiner eigenen
 Müdigkeit zu verdanken ist, kann ich ehrlich gesagt nicht sicher sagen.
 Vermutlich Letzteres. Was mir auffällt: Das Format ist ihm manchmal ein
 bisschen langweilig. Und – das klingt im ersten Moment paradox – genau
@@ -42,24 +41,21 @@ ein paar Fragen. Ich versuche sie so kurz wie möglich zu halten.
 3. **Welt/Setting:** Ein festes Setting (Ort/Welt, die jedes Mal
    vorkommt) oder von Folge zu Folge frei ausgedacht?
 4. **Einstiegsritual:** Stellst du dir vor, dass jede Folge mit dem
-   gleichen Einstieg beginnt (z.B. gleicher Eröffnungssatz)? So
-   entsteht das „Ritual"-Gefühl.
+   gleichen Einstieg beginnt (z.B. gleicher Eröffnungssatz, gleiches
+   kurzes Klangmotiv)? So entsteht das „Ritual"-Gefühl.
+
+5. **Ausstiegsritual:** Soll es auch ein Ausstiegsritual geben ?
 
 **Produktion**
 
 5. **Stimme:** Eine Erzählstimme durchgehend – hast du da eine
-   Präferenz was Geschlecht/Tonfall angeht? Ich würde es aktuell
-   per TTS einsprechen, Soundeffekte baue ich vorerst noch nicht
-   ein.
-6. **Umfang & Zyklus:** Wie viele Folgen hättest du für den ersten
-   Schritt gerne, und gibt es eine Vorstellung, bis wann die erste
-   Folge / der erste Batch stehen soll?
+   Präferenz was Geschlecht/Tonfall angeht? 
+   Ich würde hier mal 5 Teststimmen pro Geschlecht generieren ?
 
-Sag mir gerne, welche dieser Punkte wir am schnellsten geklärt kriegen,
-und welche wir später angehen. Ich melde mich gern in den kommenden
-Tagen mit einem Konzept für eine erste Probefolge zurück.
+Wenn du mir noch die restlichen Infos gibst, 
+würde ich nach meinem Urlaub mehrere Probestimmen und eine Probefolge machen.
 
-Liebe Grüße und hoffentlich noch ein paar ruhige Urlaubstage!
+Liebe Grüße,
 
 Dominik
 
