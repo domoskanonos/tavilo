@@ -41,16 +41,16 @@ ein paar Fragen. Ich versuche sie so kurz wie möglich zu halten.
 3. **Welt/Setting:** Ein festes Setting (Ort/Welt, die jedes Mal
    vorkommt) oder von Folge zu Folge frei ausgedacht?
 4. **Einstiegsritual:** Stellst du dir vor, dass jede Folge mit dem
-   gleichen Einstieg beginnt (z.B. gleicher Eröffnungssatz, gleiches
-   kurzes Klangmotiv)? So entsteht das „Ritual"-Gefühl.
+   gleichen Einstieg beginnt (z.B. gleicher Eröffnungssatz)? So
+   entsteht das „Ritual"-Gefühl.
 
-5. **Ausstiegsritual:** Soll es auch ein Ausstiegsritual geben ?
+5. **Ausstiegsritual:** Soll es auch ein Ausstiegsritual geben?
 
 **Produktion**
 
-5. **Stimme:** Eine Erzählstimme durchgehend – hast du da eine
-   Präferenz was Geschlecht/Tonfall angeht? 
-   Ich würde hier mal 5 Teststimmen pro Geschlecht generieren ?
+6. **Stimme:** Eine Erzählstimme durchgehend – hast du da eine
+   Präferenz was Geschlecht/Tonfall angeht? Ich würde per TTS pro
+   Geschlecht 5 Teststimmen generieren.
 
 Wenn du mir noch die restlichen Infos gibst, 
 würde ich nach meinem Urlaub mehrere Probestimmen und eine Probefolge machen.
