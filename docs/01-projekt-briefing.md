@@ -4,63 +4,94 @@ _Status: Initiiert am 26.06.2026 · Eigentümer: Dominik (Produzent/Auftragnehme
 
 ---
 
-## 1. Auftraggeber & Marke
+## 0. Projektkontext
+
+Dieses Projekt ist für mich (Dominik) ein **Testprojekt**. Ich möchte ausprobieren,
+wie ich als Produzent einen Hörbuch-Workflow mit einem Kunden gemeinsam aufbaue –
+von der Idee über die Skripte bis zum fertigen Hörspiel. Es geht nicht um Vertrag
+oder Rechteklärung, sondern um den Prozess und das Ergebnis.
 
 - **Produzent:** Dominik
-- **Kunde / Auftraggeber:** (Name aktuell unbekannt – vertritt die Marke Tavilo)
-- **Marke:** Tavilo – theoretisches Konzept: Kinder tippen eine "Schlafkarte" an, die Geschichte startet automatisch. Tavilo will Teil des familiären Abendrituals werden.
-- **Wertversprechen an Eltern:** "Eltern können für einen Moment durchatmen."
+- **Kunde / Auftraggeber:** Alex (vertritt die Marke Tavilo)
+- **Test-Nutzer:** Nico, Dominiks Sohn (hört aktuell „Traumreise")
+- **Produktionswerkzeug:** TTS (Text-to-Speech) – daraus folgt: vorerst **kein
+  Sounddesign**, da meine TTS-Engine Soundfx/Soundscapes nicht gut genug kann.
+
+## 1. Auftraggeber & Marke
+
+- **Marke:** Tavilo – Konzept: Kinder tippen eine „Schlafkarte" an, die Geschichte
+  startet automatisch. Tavilo will Teil des familiären Abendrituals werden.
+- **Wertversprechen an Eltern:** „Eltern können für einen Moment durchatmen."
 
 ## 2. Warum das Projekt
 
-- Einschlafen ist einer der größten täglichen Schmerzpunkte für Eltern (jeden Abend, ohne Ausnahme).
+- Einschlafen ist einer der größten täglichen Schmerzpunkte für Eltern (jeden Abend,
+  ohne Ausnahme).
 - Höchste Nutzungsfrequenz: wer Tavilo zum Einschlafen nutzt, nutzt es jeden Abend.
 - Guter Schlaf-Content schafft Rituale, Rituale schaffen Bindung.
-- Marktlücke: auf Spotify gibt es wenig hochwertigen deutschen Schlaf-Content für Kinder.
-- Echte Marktlücke mit überschaubarem Produktionsaufwand besetzen.
+- Marktlücke: auf Spotify gibt es wenig hochwertigen deutschen Schlaf-Content für
+  Kinder.
+- Echte Marktlücke mit überschaubarem Aufwand besetzen.
 
 ## 3. Zielgruppe & Format
 
-| Parameter         | Vorgabe                                  |
-| ----------------- | ---------------------------------------- |
-| Alter             | 3 bis 7 Jahre                            |
-| Länge pro Folge   | 10 bis 15 Minuten                        |
-| Tonalität         | warm, ruhig, leicht verträumt            |
-| Erzählstimme      | stark, warm, natürlich                   |
-| Sounddesign       | minimal, dezent (keine dominante Musik)  |
-| Struktur          | 3 Teile (siehe unten)                    |
-| Cliffhanger        | keine                                    |
-| Aufregung am Ende | keine                                    |
-| Meditative Elemente | keine (ausdrücklicher Kundenwunsch)    |
+| Parameter             | Vorgabe                                  |
+| --------------------- | ---------------------------------------- |
+| Alter                 | 3 bis 7 Jahre                            |
+| Länge pro Folge       | 10 bis 15 Minuten                        |
+| Tonalität             | warm, ruhig, leicht verträumt            |
+| Erzählstimme          | stark, warm, natürlich (via TTS)         |
+| Sounddesign / FX      | **keines** (vorerst, da TTS-limitiert)  |
+| Struktur              | 3 Teile (siehe unten)                    |
+| Cliffhanger           | keine                                    |
+| Aufregung am Ende     | keine                                    |
+| Meditative Elemente   | keine (ausdrücklicher Kundenwunsch)    |
 
-### Struktur каждая Folge
+### Struktur jeder Folge
 
 1. **Kurzes Einstiegsritual** – wiedererkennbar, schafft Verbindlichkeit/Ritual
-2. **Kleines Erlebnis der Hauptfigur** – niedrige Spannung, kein Konflikt-Eskalation
+2. **Kleines Erlebnis der Hauptfigur** – niedrige Spannung, keine Konflikt-Eskalation
 3. **Ruhige und sichere Auflösung** – natürlich, sanft, kein Showdown
 
-## 4. Inhärter Erzählanspruch
+## 4. Inhärenter Erzählanspruch
 
 - Ziel ist **Entspannung und Einschlafen**, nicht Neugier/Spannung.
-- Kinder sollen nicht "wissen wollen, wie es weitergeht", sondern sich immer mehr entspannen und am Ende einschlafen.
+- Kinder sollen nicht „wissen wollen, wie es weitergeht", sondern sich immer mehr
+  entspannen und am Ende einschlafen.
 - Warme, ruhige Erzählstimme, die eine **einfache** Geschichte erzählt.
 
 ## 5. Referenzen
 
-- **Sleep Tight Stories (Kanada):** Ehepaar produziert einfache Schlafgeschichten mit minimalem Produktionsaufwand, erreicht großes internationales Publikum. Vorbild für Tavilo.
-- **Tonies Schlummerbande:** bekanntes Kinder-Schlaf-Produkt, setzt aber **stärker auf Schlafmusik**. Dient als **negativer Kontrast** – Tavilo geht den Weg der ruhigen Erzählung, nicht der Musik.
+- **Sleep Tight Stories (Kanada):** Ehepaar produziert einfache Schlafgeschichten
+  mit minimalem Produktionsaufwand, erreicht großes internationales Publikum. Vorbild
+  für Tavilo.
+- **Tonies Schlummerbande:** bekanntes Kinder-Schlaf-Produkt, setzt aber **stärker
+  auf Schlafmusik**. Dient als **negativer Kontrast** – Tavilo geht den Weg der
+  ruhigen Erzählung, nicht der Musik.
+- **Traumreise (Fantasiereisen & Meditation für Kinder):** Nicos aktuelles Hörspiel.
+  Er schläft damit ein, wäre aber vermutlich auch ohne eingedöst. Es ist ihm „ein
+  bisschen langweilig" – was als *Qualitätsmerkmal* für ein Schlafhörspiel
+  betrachtet wird. Enthält Meditations-/Fantasiereise-Elemente, die Tavilo **nicht**
+  haben soll.
 
 ## 6. Kundenstimme (Email-Auszug)
 
-> Mir gefallen vor allem die ruhige Erzählweise und das dezente Sounddesign im Hintergrund. Beides unterstützt die entspannte Atmosphäre sehr gut.
+> Mir gefallen vor allem die ruhige Erzählweise und das dezente Sounddesign im
+> Hintergrund. Beides unterstützt die entspannte Atmosphäre sehr gut.
 >
-> Was mir an dem Beispiel weniger gut gefällt, sind die Elemente der geführten Meditation. Unser Gefühl ist, dass wir stattdessen lieber auf eine warme, ruhige Erzählstimme setzen möchten, die eine einfache Geschichte erzählt. Ohne große Spannung, ohne Cliffhanger und mit einer ganz natürlichen, sanften Auflösung. Ziel ist nicht, dass Kinder unbedingt wissen wollen, wie es weitergeht, sondern dass sie sich immer mehr entspannen und irgendwann einfach einschlafen.
+> Was mir an dem Beispiel weniger gut gefällt, sind die Elemente der geführten
+> Meditation. Unser Gefühl ist, dass wir stattdessen lieber auf eine warme, ruhige
+> Erzählstimme setzen möchten, die eine einfache Geschichte erzählt. Ohne große
+> Spannung, ohne Cliffhanger und mit einer ganz natürlichen, sanften Auflösung. Ziel
+> ist nicht, dass Kinder unbedingt wissen wollen, wie es weitergeht, sondern dass
+> sie sich immer mehr entspannen und irgendwann einfach einschlafen.
 
 ## 7. Aktueller Projektstatus
 
-- Kunde hat Referenzcontent von Dominik erhalten und positiv bewertet.
-- Kunde wartet auf Feedback/Ansicht von Dominik, wie der Ansatz konkret aussehen soll (Dominik ist aktuell im Urlaub).
-- Offene Klärung mit Kunde: finale Formatdefinition, Beispiel-Folge(n), Produktionsumfang.
+- Alex hat den Referenzcontent „Traumreise" von Dominik angehört und positiv
+  bewertet (ruhige Erzählweise, dezentes Sounddesign).
+- Alex wartet auf Dominiks Antwort/Ansicht nach dessen Urlaub.
+- Offene Klärung mit Alex: Format-Hochfeinheiten, Beispiel-Folge(n), Produktionsumfang.
 
 ---
 
@@ -70,37 +101,37 @@ Punkte, die vor der ersten Produktionsrunde geklärt werden müssen.
 
 ### 8.1 Inhalt & Charaktere
 
-- [ ] **Abgeschlossene Folgen vs. Mehrteiler?** – Vermutung: abgeschlossen (wegen Einschlaf-Use-Case), aber formal klären.
-- [ ] **Immer dieselben Figuren vs. wechselnde Figuren?** – Wiederkehrende Figur schafft Ritual & Bindung, wechselnde Figuren schaffen Variabilität. Entscheidung nötig.
+- [ ] **Abgeschlossene Folgen vs. Mehrteiler?** – Vermutung: abgeschlossen (wegen
+      Einschlaf-Use-Case), aber formal klären.
+- [ ] **Immer dieselben Figuren vs. wechselnde Figuren?** – Wiederkehrende Figur
+      schafft Ritual & Bindung, wechselnde Figuren schaffen Variabilität.
 - [ ] Eine feste **Hauptfigur mit Namen** als Identifikationsfigur für die Kinder?
-- [ ] Festeres **Setting / Welt** (Ort, Zeit, Tonalität der Welt) oder von Folge zu Folge frei?
-- [ ] Gleichbleibendes **Einstiegsritual** (z.B. gleicher Opening-Satz, gleiches Klangmotiv) zur Ritualbildung?
-- [ ] Sollen Kinder aktiv angesprochen werden ("Stell dir vor...") oder rein passiv erzählt bekommen?
+- [ ] Festeres **Setting / Welt** (Ort, Zeit, Tonalität der Welt) oder von Folge zu
+      Folge frei?
+- [ ] Gleichbleibendes **Einstiegsritual** (z.B. gleicher Opening-Satz zur
+      Ritualbildung)?
+- [ ] Sollen Kinder aktiv angesprochen werden („Stell dir vor...") oder rein
+      passiv erzählt bekommen?
 
 ### 8.2 Produktion & Technik
 
-- [ ] **Stimme:** 1 Erzähler/in durchgehend? Männlich oder weiblich? Eigene Stimme oder Sprecher/in engagieren?
+- [ ] **Stimme:** Eine Stimme durchgehend? Hast du eine Präferenz was
+      Geschlecht/Tonfall angeht? Aktuell würde ich es via TTS einsprechen.
 - [ ] **Sprache:** nur Deutsch? (potentiell später weitere Sprachen)
-- [ ] **Sounddesign:** konktrete Texturen definieren (z.B. weiche Synth-Pads, Natur-Atmos, leises Klavier)? Grenzen festhalten.
-- [ ] **Audio-Spec:** Format (WAV/MP3), Bitrate, Loudness-Ziel (z.B. -16 LUFS für Streaming-Plattformen), Normung über alle Folgen hinweg.
-- [ ] Eigene Produktion mit Live-Sprecher vs. TTS/Synthese?
+- [ ] **Audio-Spec:** Format (WAV/MP3), Loudness-Ziel (z.B. -16 LUFS für
+      Streaming-Plattformen), Normung über alle Folgen hinweg.
+- [ ] Sounddesign entfällt vorerst (siehe § 0).
 
 ### 8.3 Umfang & Lieferung
 
-- [ ] **Anzahl Folgen** pro Liefer-/Vertragsphase (Sprint 1: z.B. 5 Folgen?)
+- [ ] **Anzahl Folgen** pro erstem Batch (z.B. 5 Folgen?)
 - [ ] **Lieferzyklus / Deadline** für erste Folge / ersten Batch
-- [ ] **Abnahme-/Feedbackschleife** mit Kunde definieren
-- [ ] Auslieferungskanal: nur Tavilo-System oder gleichzeitig Veröffentlichung auf Spotify & Co.?
+- [ ] **Abnahme-/Feedbackschleife** mit Alex definieren
+- [ ] Auslieferungskanal: nur Tavilo-System oder parallel Veröffentlichung auf
+      Spotify & Co.?
 
-### 8.4 Verträge & Rechte
+### 8.4 Prozesse
 
-- [ ] **Nutzungsrechte:** exklusiv für Tavilo? zeitlich/räumlich begrenzt?
-- [ ] **Vergütung:** pro Folge, pro Pauschale, oder Stundenbudget?
-- [ ] **Nennung/Linearfreistellung** (Urheber-Nennung, Verwendung für Eigen-Portfolio?)
-- [ ] **idgesperrte Figuren/Welt:** gehören diese dem Kunden oder bleiben sie Dominiks geistiges Eigentum?
-
-### 8.5 Prozesse
-
-- [ ] Feedbackstruktur pro Folge ( wieviele Revisionsrunden? )
-- [ ] Testlauf mit Kindern (z.B. Dominiks Sohn) als Abnahmekriterium?
+- [ ] Feedbackstruktur pro Folge (wie viele Revisionsrunden?)
+- [ ] Testlauf mit Kindern (z.B. Nico) als Abnahmekriterium?
 - [ ] Versionskontrolle / Ablageort für Skripte & Audio (dieses Repo!)
