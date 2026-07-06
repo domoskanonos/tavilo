@@ -50,8 +50,12 @@ oder Rechteklärung, sondern um den Prozess und das Ergebnis.
 ### Struktur jeder Folge
 
 1. **Kurzes Einstiegsritual** – wiedererkennbar, schafft Verbindlichkeit/Ritual
+   _(Alex: „Ja, unbedingt" – siehe `/docs/03-alex-antworten.md`)_
 2. **Kleines Erlebnis der Hauptfigur** – niedrige Spannung, keine Konflikt-Eskalation
+   _(wiederkehrende Hauptfigur in einer festen Welt, aber eigenständige Folgen)_
 3. **Ruhige und sichere Auflösung** – natürlich, sanft, kein Showdown
+4. **Kurzes Ausstiegsritual** – sanftes Ausklingen der Geschichte
+   _(Alex: „Gerne auch ein kurzes, ruhiges Ende" – siehe `/docs/03-alex-antworten.md`)_
 
 ## 4. Inhärenter Erzählanspruch
 
@@ -90,8 +94,16 @@ oder Rechteklärung, sondern um den Prozess und das Ergebnis.
 
 - Alex hat den Referenzcontent „Traumreise" von Dominik angehört und positiv
   bewertet (ruhige Erzählweise, dezentes Sounddesign).
-- Alex wartet auf Dominiks Antwort/Ansicht nach dessen Urlaub.
-- Offene Klärung mit Alex: Format-Hochfeinheiten, Beispiel-Folge(n), Produktionsumfang.
+- Alex hat die offenen inhaltlichen Fragen beantwortet (siehe
+  `/docs/03-alex-antworten.md`): eigenständige Folgen in gemeinsamer Welt,
+  wiederkehrende Hauptfigur, festes Setting, Einstiegs- UND Ausstiegsritual,
+  Teststimmen weiblich + männlich (warm/ruhig/vertrauensvoll).
+- **Nächste Schritte nach Dominiks Urlaub:**
+  1. Teststimmen (weiblich & männlich) via TTS generieren und zur Auswahl stellen.
+  2. Erste Probefolge konzipieren und produzieren.
+- Noch offen (nicht in Alex' Mail geklärt): Sprache, Audio-Spec, Batch-Umfang,
+  Lieferzyklus/Deadline, Abnahme-/Feedbackschleife, Auslieferungskanal,
+  Testlauf mit Kindern (siehe §8).
 
 ---
 
@@ -101,22 +113,27 @@ Punkte, die vor der ersten Produktionsrunde geklärt werden müssen.
 
 ### 8.1 Inhalt & Charaktere
 
-- [ ] **Abgeschlossene Folgen vs. Mehrteiler?** – Vermutung: abgeschlossen (wegen
-      Einschlaf-Use-Case), aber formal klären.
-- [ ] **Immer dieselben Figuren vs. wechselnde Figuren?** – Wiederkehrende Figur
-      schafft Ritual & Bindung, wechselnde Figuren schaffen Variabilität.
-- [ ] Eine feste **Hauptfigur mit Namen** als Identifikationsfigur für die Kinder?
-- [ ] Festeres **Setting / Welt** (Ort, Zeit, Tonalität der Welt) oder von Folge zu
-      Folge frei?
-- [ ] Gleichbleibendes **Einstiegsritual** (z.B. gleicher Opening-Satz zur
-      Ritualbildung)?
+- [x] **Abgeschlossene Folgen vs. Mehrteiler?** – **Klärt:** Eigenständige Folgen,
+      aber alle in derselben Welt (Vertrautheit ohne Reihenfolge). _Alex, 06.07._
+- [x] **Immer dieselben Figuren vs. wechselnde Figuren?** – **Klärt:** Wiederkehrende
+      Hauptfigur (Bindung durch Wiederholung). _Alex, 06.07._
+- [x] **Eine feste Hauptfigur mit Namen** als Identifikationsfigur? – **Klärt:** Ja,
+      wiederkehrende Hauptfigur. _Alex, 06.07._
+- [x] **Festeres Setting / Welt** oder von Folge zu Folge frei? – **Klärt:** Feste Welt
+      mit Wiedererkennungswert; nicht jeder Ort gleich, aber gemeinsames Universum.
+      _Alex, 06.07._
+- [x] **Gleichbleibendes Einstiegsritual**? – **Klärt:** Ja, unbedingt. Kurzer,
+      wiederkehrender Einstieg als Schlafritual-Stütze. _Alex, 06.07._
+- [x] **Ausstiegsritual?** – **Klärt:** Ja, kurzes, ruhiges Ende zum sanften Ausklingen.
+      _Alex, 06.07._
 - [ ] Sollen Kinder aktiv angesprochen werden („Stell dir vor...") oder rein
       passiv erzählt bekommen?
 
 ### 8.2 Produktion & Technik
 
-- [ ] **Stimme:** Eine Stimme durchgehend? Hast du eine Präferenz was
-      Geschlecht/Tonfall angeht? Aktuell würde ich es via TTS einsprechen.
+- [x] **Stimme:** Eine Stimme durchgehend? Präferenz Geschlecht/Tonfall? – **Klärt:**
+      Teststimmen für weiblich UND männlich gewünscht; Tonfall warm/ruhig/vertrauensvoll.
+      _Alex, 06.07._
 - [ ] **Sprache:** nur Deutsch? (potentiell später weitere Sprachen)
 - [ ] **Audio-Spec:** Format (WAV/MP3), Loudness-Ziel (z.B. -16 LUFS für
       Streaming-Plattformen), Normung über alle Folgen hinweg.
