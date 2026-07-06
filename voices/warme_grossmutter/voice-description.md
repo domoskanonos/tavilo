@@ -2,26 +2,23 @@
 
 ## Profile
 
-| Attribute      | Value                                          |
-| -------------- | ---------------------------------------------- |
-| Voice ID       | `9fe2ad3cc01e`                                 |
-| Language       | German                                         |
-| Gender         | Female                                         |
-| Age impression | Mature (grandmotherly)                         |
-| Tone           | Warm, full, round, deep, tender                |
-| Pace           | Very unhurried                                 |
-| Use case       | Bedtime stories for children aged 3–7          |
+| Attribute      | Value                                              |
+| -------------- | -------------------------------------------------- |
+| Voice ID       | `german_grandmother_ingrid`                        |
+| Language       | German                                             |
+| Gender         | Female                                             |
+| Age impression | Elderly, grandmotherly                             |
+| Tone           | Gentle, elderly, warm, slightly raspy, wise        |
+| Pace           | Slow, deeply comforting                            |
+| Use case       | Bedtime stories – traditional, calming             |
 
 ## TTS Instruction (English)
 
-> A warm, mature, full and round grandmotherly female voice. Deep, rich,
-> soft, with great tenderness and a sense of deep safety and unconditional
-> love. Unhurried, like an older woman who has all the time in the world. No
-> accent, clear German articulation. Ideal for bedtime stories for children
-> aged 3-7.
+> A gentle, elderly female voice with warmth and wisdom. Slightly raspy,
+> slow-paced, and deeply comforting. Like a loving grandmother who has
+> all the time in the world. Rich in tenderness and unconditional love.
 
 ## Character
 
-Eine reife, warme, vollmundige Stimme – wie eine liebevolle Großmutter, die
-alle Zeit der Welt hat. Tief, rund und voller Geborgenheit. Besonders
-geeignet für sehr ruhige, traditionell wirkende Geschichten.
+Eine warme, reife Stimme – wie eine liebevolle Großmutter. Leise, weise
+und voller Geborgenheit. Ideal für traditionelle Gutenachtgeschichten.

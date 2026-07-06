@@ -2,26 +2,23 @@
 
 ## Profile
 
-| Attribute      | Value                                          |
-| -------------- | ---------------------------------------------- |
-| Voice ID       | `229344980096`                                 |
-| Language       | German                                         |
-| Gender         | Male                                           |
-| Age impression | Mature (grandfatherly)                         |
-| Tone           | Warm, full, deep, rich, tender                 |
-| Pace           | Very unhurried                                 |
-| Use case       | Bedtime stories for children aged 3–7          |
+| Attribute      | Value                                              |
+| -------------- | -------------------------------------------------- |
+| Voice ID       | `german_storyteller_karl`                          |
+| Language       | German                                             |
+| Gender         | Male                                               |
+| Age impression | Elderly, grandfatherly                             |
+| Tone           | Rich, baritone, dramatic, evocative, masterful     |
+| Pace           | Slow, unhurried, emotionally controlled            |
+| Use case       | Bedtime stories – traditional, calming             |
 
 ## TTS Instruction (English)
 
-> A warm, mature, full and deep grandfatherly male voice. Rich, round,
-> soft, with deep tenderness and a profound sense of safety and
-> unconditional love. Unhurried, like an older man who has all the time in
-> the world. No accent, clear German articulation. Ideal for bedtime
-> stories for children aged 3-7.
+> A rich, baritone male storyteller voice. Dramatic and evocative with
+> masterful pacing and emotional control. Like a loving grandfather
+> telling a story by the fireplace. Deep, warm, and full of wisdom.
 
 ## Character
 
-Eine reife, warme, vollmundige Stimme – wie ein liebevoller Großvater, der
-alle Zeit der Welt hat. Tief, rund und voller Geborgenheit. Besonders
-geeignet für sehr ruhige, traditionell wirkende Geschichten.
+Eine tiefe, volle Stimme – wie ein Großvater am Kamin, der eine
+Geschichte aus alten Zeiten erzählt. Würdevoll, warm und voller Weisheit.

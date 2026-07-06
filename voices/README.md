@@ -1,6 +1,6 @@
 # Tavilo – Teststimmen für Schlafgeschichten
 
-_Status: erstellt am 06.07.2026 · 5 weibliche + 5 männliche Stimmen_
+_Stand: 06.07.2026 · 5 weibliche + 5 männliche Stimmen_
 
 Diese Stimmen wurden für das Tavilo-Schlafgeschichten-Projekt als Auswahl
 generiert (Zielgruppe: Kinder 3–7 Jahre, Tonalität: warm / ruhig /
@@ -9,46 +9,46 @@ vertrauensvoll). Jede Stimme liegt in einem eigenen Unterordner mit:
 - `voice-description.md` – Steckbrief (mit TTS-Instruktion auf Englisch)
 - `voice-example.md` – Beispieltext (Deutsch)
 - `voice-example.wav` – Beispielaudio (WAV, Quellformat)
-- `voice-example.mp3` – Beispielaudio (MP3, 192 kbps)
+- `voice-example.mp3` – Beispielaudio (MP3)
+- `voice-sheet.pdf` – Steckbrief als PDF
 
 ## Weibliche Stimmen
 
-| # | Ordner              | Voice ID        | Charakter                                                  |
-| - | ------------------- | --------------- | --------------------------------------------------------- |
-| 1 | `sanfte_mutter`     | `54397d59da91`  | Sehr sanft, mütterlich, nah – wie eine Mutter am Bett       |
-| 2 | `ruhige_erzaehlerin`| `e20a57e14600`  | Ruhig, klar, gleichmäßig – erfahrene Geschichtenerzählerin  |
-| 3 | `junge_frau`        | `0778e996492f`  | Jung, freundlich, träumerisch – wie eine große Schwester    |
-| 4 | `warme_grossmutter` | `9fe2ad3cc01e`  | Warm, voll, tief – liebevolle Großmutter                    |
-| 5 | `leise_fluesterin`  | `a835735e63dd`  | Sehr leise, flüsternd, hypnotisch – für das Ausstiegsritual |
+| # | Ordner              | Voice ID                              | Charakter                                                  |
+| - | ------------------- | ------------------------------------- | ---------------------------------------------------------- |
+| 1 | `warme_abendstimme` | `german_audiobook_klara`              | Warme Erwachsenenstimme, sanft und geduldig                 |
+| 2 | `sanfte_mutter`     | `german_podcast_female_calm_02`       | Warm, melodisch, langsam – wie eine Mutter am Bett          |
+| 3 | `ruhige_erzaehlerin`| `german_audiobook_female_narrator_01` | Klar, ruhig, gleichmäßig – erfahrene Geschichtenerzählerin  |
+| 4 | `warme_grossmutter` | `german_grandmother_ingrid`           | Warm, weise, leicht rau – liebevolle Großmutter             |
+| 5 | `leise_fluesterin`  | `german_meditation_sophie`            | Sehr leise, flüsternd, hypnotisch – für das Ausstiegsritual |
 
 ## Männliche Stimmen
 
-| # | Ordner              | Voice ID        | Charakter                                                  |
-| - | ------------------- | --------------- | --------------------------------------------------------- |
-| 1 | `sanfter_vater`     | `aff061ee54c2`  | Sanft, tief, beschützend – wie ein Vater am Bett            |
-| 2 | `ruhiger_erzaehler` | `7efe7708a500`  | Ruhig, warm, klar – erfahrener Hörbuch-Sprecher             |
-| 3 | `junger_mann`       | `7181961b9f12`  | Jung, freundlich, mit leisem Staunen – wie ein großer Bruder|
-| 4 | `warmer_grossvater` | `229344980096`  | Warm, voll, tief – liebevoller Großvater                    |
-| 5 | `leiser_fluesterer` | `3d79cca97b2a`  | Sehr leise, flüsternd, tief – für das Ausstiegsritual       |
+| # | Ordner              | Voice ID                              | Charakter                                                  |
+| - | ------------------- | ------------------------------------- | ---------------------------------------------------------- |
+| 1 | `sanfter_vater`     | `german_podcast_male_calm_01`         | Sanft, tief, beruhigend – wie ein Vater am Bett             |
+| 2 | `ruhiger_erzaehler` | `german_audiobook_male_narrator_02`   | Warm, reif, moderat – erfahrener Hörbuch-Sprecher           |
+| 3 | `junger_mann`       | `german_podcast_male_calm_02`         | Warm, sanft, entspannend – wie ein großer Bruder            |
+| 4 | `warmer_grossvater` | `german_storyteller_karl`             | Tief, voll, dramatisch – liebevoller Großvater am Kamin     |
+| 5 | `leiser_fluesterer` | `german_podcast_male_calm_03`         | Leise, ruhig, besonnen – für das Ausstiegsritual            |
 
 ## Empfehlung für die Auswahl
 
 - Für das **Einstiegs-/Ausstiegsritual** eignen sich besonders die
-  sehr nahen Stimmen (`sanfte_mutter`, `sanfter_vater`, `leise_fluesterin`,
-  `leiser_fluesterer`).
-- Für den **Erzählteil** der Geschichte eignen sich die klareren, etwas
+  sehr nahen Stimmen (`sanfte_mutter`, `sanfter_vater`,
+  `leise_fluesterin`, `leiser_fluesterer`).
+- Für den **Erzählteil** der Geschichte eignen sich die klareren,
   distanzierteren Stimmen (`ruhige_erzaehlerin`, `ruhiger_erzaehler`,
-  `junge_frau`, `junger_mann`).
+  `junger_mann`, `warme_abendstimme`).
 - Für eine **sehr warme, traditionelle Tonalität** bieten sich die
-  großmütterlichen Stimmen (`warme_grossmutter`, `warmer_grossvater`) an.
+  großelterlichen Stimmen (`warme_grossmutter`, `warmer_grossvater`) an.
 
 ## Hinweise
 
 - Die `voice_id` ist die ID im QuisyTTS-System. Mit ihr lassen sich
   weitere Folgen mit derselben Stimme generieren
   (siehe Skill `voice-maker`).
-- Die TTS-Instruktion in jeder `voice-description.md` ist absichtlich
-  auf Englisch formuliert, da die TTS-Engine so am präzisesten steuerbar
-  ist. Der Beispieltext ist auf Deutsch (Zielsprache der Geschichten).
-- Audio-Spec (Loudness, Format) ist noch offen – siehe
-  `/docs/01-projekt-briefing.md` §8.2.
+- Die TTS-Instruktion in jeder `voice-description.md` ist auf Englisch
+  formuliert. Der Beispieltext ist auf Deutsch.
+- Alle Stimmen nutzen bestehende QuisyTTS-Voices (keine Custom-Voices),
+  dadurch konsistentere Qualität.

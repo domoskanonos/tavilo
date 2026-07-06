@@ -2,26 +2,23 @@
 
 ## Profile
 
-| Attribute      | Value                                          |
-| -------------- | ---------------------------------------------- |
-| Voice ID       | `3d79cca97b2a`                                 |
-| Language       | German                                         |
-| Gender         | Male                                           |
-| Age impression | Adult (ageless)                                |
-| Tone           | Very soft, hushed, breathy, deep, intimate     |
-| Pace           | Very slow, almost hypnotic                     |
-| Use case       | Bedtime stories for children aged 3–7          |
+| Attribute      | Value                                              |
+| -------------- | -------------------------------------------------- |
+| Voice ID       | `german_podcast_male_calm_03`                      |
+| Language       | German                                             |
+| Gender         | Male                                               |
+| Age impression | Adult, ageless                                     |
+| Tone           | Smooth, quiet, measured, contemplative             |
+| Pace           | Very slow, calming                                 |
+| Use case       | Bedtime stories – wind-down ritual                 |
 
 ## TTS Instruction (English)
 
-> A very soft, hushed, whispery and intimate male voice. Barely above a
-> whisper, breathy, slow, almost hypnotic, like someone murmuring right
-> beside the child's ear. Deep but very quiet. No accent, clear German
-> articulation. Ideal for bedtime stories for children aged 3-7.
+> A smooth, quiet male voice, measured and contemplative. Designed for
+> calm and immersive listening. Deeply relaxing. Like a gentle voice
+> guiding a child into sleep. Clear German articulation.
 
 ## Character
 
-Eine fast flüsternde, sehr nahe Stimme – wie ein sanfter Atem neben dem
-Ohr des Kindes. Tief, aber sehr leise, fast hypnotisch. Besonders
-geeignet für das Ausstiegsritual und die letzten Sätze vor dem
-Einschlafen.
+Eine leise, ruhige Männerstimme – sanft und besonnen. Wie eine leise
+Stimme, die ein Kind in den Schlaf begleitet.

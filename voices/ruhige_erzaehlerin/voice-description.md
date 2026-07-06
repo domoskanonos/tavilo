@@ -1,26 +1,24 @@
-# Voice: ruhige_erzaehlerin (Calm Narrator)
+# Voice: ruhige_erzaehlerin (Calm Narrator Female)
 
 ## Profile
 
-| Attribute      | Value                                          |
-| -------------- | ---------------------------------------------- |
-| Voice ID       | `e20a57e14600`                                 |
-| Language       | German                                         |
-| Gender         | Female                                         |
-| Age impression | Adult (medium)                                 |
-| Tone           | Calm, even, warm, slightly melodic             |
-| Pace           | Steady, gentle                                 |
-| Use case       | Bedtime stories for children aged 3–7          |
+| Attribute      | Value                                              |
+| -------------- | -------------------------------------------------- |
+| Voice ID       | `german_audiobook_female_narrator_01`              |
+| Language       | German                                             |
+| Gender         | Female                                             |
+| Age impression | Adult                                              |
+| Tone           | Clear, articulate, gentle, even                    |
+| Pace           | Steady, gentle                                     |
+| Use case       | Bedtime stories – main narrative part              |
 
 ## TTS Instruction (English)
 
-> A calm, even, warm and balanced female narrator voice. Clear, steady,
-> slightly melodic, with a soft and inviting tone. Experienced storyteller
-> quality - never rushed, never loud, gently paced. No accent, clear German
-> articulation. Ideal for bedtime stories for children aged 3-7.
+> A clear, articulate female voice with a gentle pacing. Perfect for
+> narrative fiction and storytelling. Professional narrator quality –
+> steady, warm, and inviting. Never rushed. Clear German articulation.
 
 ## Character
 
-Eine professionelle, ruhige Erzählerstimme – wie eine erfahrene
-Geschichtenerzählerin. Klar, gleichmäßig und warm, ohne jemal laut oder
-hetzig zu werden. Ideal für den mittleren Erzählteil einer Tavilo-Geschichte.
+Eine klare, ruhige Erzählerstimme – wie eine erfahrene
+Geschichtenerzählerin. Gleichmäßig, warm und professionell.
