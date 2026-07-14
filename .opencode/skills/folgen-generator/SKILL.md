@@ -128,6 +128,7 @@ Führe die folgenden Schritte nacheinander aus:
 - **Ziel-Länge:** ~1400 Wörter Story-Text für 7–8 Minuten Audio.
 - Orientiere dich am Stil von `Folgen/Beispielfolge/emil-der-igel-geschichte.md`:
   - Ruhig, bildhaft, einschläfernd
+  - Kinderfreundlich, fantasievoll
   - ~6 kurze Kapitel
   - Einfache Sprache (3–7 Jahre)
   - Emil als wiederkehrende Hauptfigur?
